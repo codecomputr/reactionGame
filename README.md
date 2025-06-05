@@ -59,5 +59,3 @@ Enjoy testing your reaction time and have fun with your DIY Reaction Game! 🚀
 
 
 ![IMG_20250605_190236](https://github.com/user-attachments/assets/12ded9d8-70cc-4ced-be3a-57a8a81008c2)
-![IMG_20250605_190233](https://github.com/user-attachments/assets/dc85d414-f215-4278-8420-253a9e3911b3)
-
